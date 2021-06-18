@@ -1,0 +1,19 @@
+{
+  "name": "tailwindcss-course",
+  "version": "1.0.0",
+  "description": "The source code of all sessions",
+  "license": "MIT",
+  "author": {
+    "name": "Mehdi Neysi",
+    "email": "dev.mehdineysi@gmail.com",
+    "url": "https://github.com/neysidev"
+  },
+  "scripts": {
+    "build": "postcss styles/tailwind.css -o dist/main.css"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.2.6",
+    "postcss-cli": "^8.3.1",
+    "tailwindcss": "^2.2.2"
+  }
+}
