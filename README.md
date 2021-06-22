@@ -7,4 +7,4 @@ Hello dears. We put [tailwindcss tutorial](https://www.youtube.com/playlist?list
 - **styles:** includes the main tailwindcss file
 
 ##  Run Project
-You can use [live-server](https://marketplace.visualstudio.com/items?itemName=yandeu.five-server) extensions to run the project. After installing this extension, just right-click on the file you want to open and click on "Open with Live Server".
+You can use [live-server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extensions to run the project. After installing this extension, just right-click on the file you want to open and click on "Open with Live Server".
